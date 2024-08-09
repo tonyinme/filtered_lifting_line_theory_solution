@@ -3,7 +3,7 @@
 #
 #  plot.py
 #  
-#  Copyright 2015 tony <tony@wind>
+#  Copyright 2024 Luis A Martinez Tossas
 #  
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
